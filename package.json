@@ -1,0 +1,11 @@
+{
+  "name": "youtube-post-kai",
+  "version": "1.0.0",
+  "description": "YouTube Community Post for Vercel",
+  "main": "api/index.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
